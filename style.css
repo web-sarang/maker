@@ -674,6 +674,7 @@ input:focus:invalid {
 
     .send__btn {
         width: 100%;
+        max-width: 327px;
         margin-top: 24px;
     }
 
